@@ -13,4 +13,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RaphaelDev-Off&icon=2&color=8)]
+![](https://visitcount.itsvg.in/api?id=RaphaelDev-Off&icon=2&color=8)
